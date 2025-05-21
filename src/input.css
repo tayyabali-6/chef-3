@@ -25,11 +25,6 @@
     --color-orangeOp: '#FFA12E26';
     --color-yellowOpacity:#FFA12E26;
     --color-blackOpacity:#00000099;
-    /* font size */
-    --font-size-lg:50px;
-    --font-size-md:40px;
-    --font-size-lg:40px;
-    
 }
 
 @layer base {
